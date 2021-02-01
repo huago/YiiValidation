@@ -14,7 +14,6 @@ use Rider\Tools\Gift;
 /**
  * GiftValidator validates that the attribute value is a valid gift key whether or not
  *
- * @author chentiebing <chentiebing@didiglobal.com>
  * @since 2.0
  */
 class GiftValidator extends Validator
